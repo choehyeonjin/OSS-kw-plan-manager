@@ -1,1 +1,1 @@
-# 2024-OSS-kw-plan-manager
+# OSS-kw-plan-manager
